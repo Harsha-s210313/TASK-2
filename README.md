@@ -15,6 +15,7 @@ SYNCHRONUS RAM
 *MENTOR*: NEELA SANTOSH
 
 ***TASK-2***
+
 This project involves the design and verification of a parameterized synchronous RAM (Random Access Memory) module using Verilog HDL. The RAM design supports simultaneous read and write operations controlled via clock edges, making it suitable for use in digital systems such as microprocessors, memory controllers, and cache systems.
 The top-level module sync_ram is designed using parameterized data width and address width, offering flexibility and scalability. The module interacts with standard control signals like clk, rst, we (write enable), re (read enable), and uses a memory array to store and retrieve data.
 Design Architecture
